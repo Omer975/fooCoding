@@ -49,6 +49,7 @@ li{
 
 h2{
     display:inline;
+    
 }
 
 i{
@@ -70,6 +71,7 @@ hr{
     background-color: #6fd1bd;
     border:none;
     height: 0.12em;
+    margin-bottom: 20px;
 }
 
 .image{
@@ -80,6 +82,24 @@ hr{
 
 .contact{
     margin: 0 auto; 
+   
+}
+
+.description,
+.skills,
+.education,
+.experience{
+    margin-top:25px;
+}
+
+h3{
+    margin-top:20px;
+    margin-bottom:25px;
+}
+
+h4{
+    margin:10px 0;
+
 }
 
 
